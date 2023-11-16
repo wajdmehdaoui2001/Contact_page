@@ -1,0 +1,37 @@
+
+.text{
+    
+color: #2A4466;
+ font-size: 20px;
+ font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word;
+ margin-top: 20px;
+
+}
+.description{
+font-family: Montserrat;
+ font-weight: 400;
+ word-wrap: break-word;
+ margin-left: 20px;
+ margin-top: 20px;
+ display: flex;
+ flex-direction: column;
+ gap: 108px;
+ padding-top: 10px;
+
+ 
+ 
+
+
+}
+.container{
+    display: flex;
+    
+}
+.item{
+    margin-top: 30px;
+}
+
+
+
